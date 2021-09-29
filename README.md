@@ -1,6 +1,7 @@
 # Русские таблицы и гайды для MMO New World
-За перевод спасибо Gusot
-------------------------
+### _За перевод спасибо Gusot_
+
+**Оглавление:**
 
 * [Сила, автор PerForm](https://github.com/denis-ershov/nwguide/wiki/Главная#Сила-автор-perform)
 * [Ловкость, автор PerForm](https://github.com/denis-ershov/nwguide/wiki/Главная#Ловкость-автор-perform)
@@ -32,4 +33,4 @@
 * [Рапира, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Рапира-автор-edgybuttermaker)
 * [Ледяная перчатка, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Ледяная-перчатка-автор-edgybuttermaker)
 * [Посох огня, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Посох-огня-автор-edgybuttermaker)
-* [Посох жизни, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Посох-жизни-автор-edgybuttermaker)
+* [Посох жизни, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Посох-жизни-автор-edgybuttermaker)# 
