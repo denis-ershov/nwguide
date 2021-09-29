@@ -33,4 +33,4 @@
 * [Рапира, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Рапира-автор-edgybuttermaker)
 * [Ледяная перчатка, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Ледяная-перчатка-автор-edgybuttermaker)
 * [Посох огня, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Посох-огня-автор-edgybuttermaker)
-* [Посох жизни, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Посох-жизни-автор-edgybuttermaker)# 
+* [Посох жизни, автор edgybuttermaker](https://github.com/denis-ershov/nwguide/wiki/Главная#Посох-жизни-автор-edgybuttermaker)
