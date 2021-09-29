@@ -1,5 +1,6 @@
-# Русские таблицы и гайды на MMO New World
-### За перевод спасибо Gusot
+# Русские таблицы и гайды для MMO New World
+За перевод спасибо Gusot
+------------------------
 
 * [Сила, автор PerForm](https://github.com/denis-ershov/nwguide/wiki/Главная#Сила-автор-perform)
 * [Ловкость, автор PerForm](https://github.com/denis-ershov/nwguide/wiki/Главная#Ловкость-автор-perform)
